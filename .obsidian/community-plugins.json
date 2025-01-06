@@ -1,5 +1,7 @@
 [
   "typst",
   "obsidian-vimrc-support",
-  "obsidian-relative-line-numbers"
+  "obsidian-relative-line-numbers",
+  "code-emitter",
+  "blaze-jump"
 ]

@@ -11,5 +11,13 @@
       ],
       "key": "Tab"
     }
+  ],
+  "blaze-jump:toggle": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "`"
+    }
   ]
 }

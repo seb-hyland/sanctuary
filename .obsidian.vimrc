@@ -13,7 +13,6 @@ nmap <F9> :nohl<CR>
 set clipboard=unnamed
 
 " Go back and forward with Ctrl+O and Ctrl+I
-" (make sure to remove default Obsidian shortcuts for these to work)
 exmap back obcommand app:go-back
 nmap <C-o> :back<CR>
 exmap forward obcommand app:go-forward
@@ -40,3 +39,7 @@ vmap <C-l> $ " Move to the end of the line
 " Others
 nmap <BS> "_x " Delete character without copying
 vmap <BS> "_x " Delete character without copying
+
+exmap jump obcommand blaze-jump:any
+nmap f :jump<CR>
+vmap f :jump<CR>

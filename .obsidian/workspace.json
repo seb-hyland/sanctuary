@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BMEG something/First note.md",
+                "file": "ᵄ quicknotes/Demo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "First note"
+              "title": "Demo"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BMEG something/First note.md",
+                "file": "ᵄ quicknotes/Demo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for First note"
+              "title": "Backlinks for Demo"
             }
           },
           {
@@ -149,8 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,13 +164,20 @@
   },
   "active": "515c59defa5b4bc4",
   "lastOpenFiles": [
-    "BMEG something/First note.md",
-    "Chem smth/First note.md",
-    "Untitled.md",
+    "2025-01-06.md",
+    "ᵄ quicknotes/Demo.md",
+    "BMEG 257",
+    "MATH 264",
+    "BMEG 220",
+    "BMEG 201/First note.md",
+    "Zachary.md",
+    "ᵄ quicknotes",
+    "ᵜ assets/210203_SBMEApplicationBooklet_DP21003_.pdf",
+    "ᵜ assets",
     "BMEG something/First note.md~",
     "Untitled.canvas",
-    "Chem smth",
+    "BMEG 201",
     "Welcome.md",
-    "BMEG something"
+    "BMEG 250"
   ]
 }

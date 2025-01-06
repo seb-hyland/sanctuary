@@ -1,0 +1,15 @@
+{
+  "app:go-forward": [],
+  "app:go-back": [],
+  "editor:open-search-replace": [],
+  "editor:toggle-checklist-status": [],
+  "editor:insert-link": [],
+  "editor:toggle-fold": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "Tab"
+    }
+  ]
+}

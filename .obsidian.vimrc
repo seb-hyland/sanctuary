@@ -3,6 +3,10 @@ nmap j gj
 vmap j gj
 nmap k gk
 vmap k gk
+
+nmap <C-g> <Esc>
+imap <C-g> <Esc>
+vmap <C-g> <Esc>
 " I like using H and L for beginning/end of line
 nmap H ^
 nmap L $

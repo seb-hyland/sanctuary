@@ -25,10 +25,10 @@
             "id": "db5fcc00c5b6dbb3",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -185,8 +185,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e4a730f5a57aa176",
+  "active": "db5fcc00c5b6dbb3",
   "lastOpenFiles": [
+    "BMEG 201/Introduction.md",
+    "Ink/Drawing/2025.1.6 - 21.05pm.drawing",
+    "Ink/Drawing",
+    "Ink",
     "Untitled.md",
     "MATH 264/Introduction.md",
     "BMEG 220/Electric field.md",
@@ -200,9 +204,6 @@
     "BMEG 257/BMEG 220",
     "BMEG 201",
     "2025-01-06.md",
-    "BMEG 257",
-    "MATH 264",
-    "BMEG 257/BMEG 220",
     "BMEG 201/First note.md",
     "Zachary.md",
     "Untitled.canvas",

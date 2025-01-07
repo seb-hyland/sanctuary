@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "515c59defa5b4bc4",
+            "id": "b13f376832ac8084",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ᵄ quicknotes/Demo.md",
+                "file": "MATH 264/Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Demo"
+              "title": "Introduction"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ᵄ quicknotes/Demo.md",
+                "file": "BMEG 250/Course Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Demo"
+              "title": "Backlinks for Course Introduction"
             }
           },
           {
@@ -139,17 +139,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BMEG something/First note.md"
+                "file": "MATH 264/Introduction.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of First note"
+              "title": "Outline of Introduction"
+            }
+          },
+          {
+            "id": "e4a730f5a57aa176",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,25 +170,30 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "515c59defa5b4bc4",
+  "active": "b13f376832ac8084",
   "lastOpenFiles": [
-    "2025-01-06.md",
+    "BMEG 220/Electric field.md",
+    "MATH 264/Introduction.md",
+    "BMEG 250/Course Introduction.md",
+    "BMEG 220/Untitled",
     "ᵄ quicknotes/Demo.md",
+    "BMEG 250",
+    "BMEG 220",
+    "MATH 264",
+    "BMEG 257",
+    "BMEG 257/BMEG 220",
+    "BMEG 201",
+    "2025-01-06.md",
     "BMEG 257",
     "MATH 264",
-    "BMEG 220",
+    "BMEG 257/BMEG 220",
     "BMEG 201/First note.md",
     "Zachary.md",
-    "ᵄ quicknotes",
-    "ᵜ assets/210203_SBMEApplicationBooklet_DP21003_.pdf",
-    "ᵜ assets",
-    "BMEG something/First note.md~",
     "Untitled.canvas",
-    "BMEG 201",
-    "Welcome.md",
-    "BMEG 250"
+    "Welcome.md"
   ]
 }

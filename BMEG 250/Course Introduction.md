@@ -1,0 +1,5 @@
+- ODE heavy course
+	- Primarily using numerical methods
+	- "More conceptual"
+	- Python for numerical solutions
+	- Disease modelling, formal microfluidics, etc

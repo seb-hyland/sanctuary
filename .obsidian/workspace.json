@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Introduction"
             }
+          },
+          {
+            "id": "db5fcc00c5b6dbb3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,10 +185,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b13f376832ac8084",
+  "active": "e4a730f5a57aa176",
   "lastOpenFiles": [
-    "BMEG 220/Electric field.md",
+    "Untitled.md",
     "MATH 264/Introduction.md",
+    "BMEG 220/Electric field.md",
     "BMEG 250/Course Introduction.md",
     "BMEG 220/Untitled",
     "ᵄ quicknotes/Demo.md",

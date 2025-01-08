@@ -1,6 +1,11 @@
 {
-  "cssTheme": "Things",
+  "cssTheme": "Primary",
   "baseFontSize": 18,
   "textFontFamily": "Lora",
-  "interfaceFontFamily": "Inter"
+  "interfaceFontFamily": "Inter",
+  "nativeMenus": false,
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "personal"
+  ]
 }

@@ -1,0 +1,1 @@
+A [[Loop]] that encloses no other loops.

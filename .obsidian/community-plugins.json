@@ -5,5 +5,7 @@
   "code-emitter",
   "blaze-jump",
   "obsidian-git",
-  "ink"
+  "ink",
+  "obsidian-tasks-plugin",
+  "obisidian-note-linker"
 ]

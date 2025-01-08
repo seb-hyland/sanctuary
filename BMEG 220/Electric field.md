@@ -1,1 +1,0 @@
-**Definition**: The electric force applied by the charge distribution on a test charge ($q_"test"$) given that it is infinitesimally small.

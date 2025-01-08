@@ -1,0 +1,7 @@
+.cm-s-obsidian span.cm-highlight, .markdown-rendered mark {
+    background-color:  #7C3030; 
+}
+
+.cm-s-obsidian span.cm-strong, .markdown-rendered strong {
+  color: #89CFF0;
+}

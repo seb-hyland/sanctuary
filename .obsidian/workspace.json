@@ -8,35 +8,59 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b13f376832ac8084",
+            "id": "a64318a0bc8a7fe4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH 264/Introduction.md",
+                "file": "Courses/BMEG 220/Kirchhoff's Current and Voltage Laws.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction"
+              "title": "Kirchhoff's Current and Voltage Laws"
             }
           },
           {
-            "id": "db5fcc00c5b6dbb3",
+            "id": "6cbda38e347b71a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BMEG 201/Introduction.md",
+                "file": "Tasks/Viewer.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Viewer"
+            }
+          },
+          {
+            "id": "ee97be20dbe8911e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "dbd60bd8fef920ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quicknotes/Demo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction"
+              "title": "Demo"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -67,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "node",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +112,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -186,31 +211,48 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "db5fcc00c5b6dbb3",
+  "active": "6de4279e6334926b",
   "lastOpenFiles": [
-    "BMEG 201/Introduction.md",
-    "Ink/Drawing/2025.1.6 - 21.05pm.drawing",
-    "Ink/Drawing",
-    "Ink",
+    "Tasks/Viewer.md",
+    "Tasks/Academic.md",
+    "Courses/BMEG 220/Terminology/Node.md",
+    "Courses/MATH 264/Introduction.md",
+    "Courses/BMEG 220/Terminology/Basic Terminology.md",
+    "Courses/BMEG 220/Kirchhoff's Current and Voltage Laws.md",
+    "Courses/BMEG 220/Parallel Rules.md",
+    "Courses/BMEG 220/Electric field.md",
+    "Courses/BMEG 220/Circuit Elements.md",
+    "Courses/BMEG 201/Introduction.md",
+    "Quicknotes/Demo.md",
+    "Courses/BMEG 220/Series Rules.md",
+    "210203_SBMEApplicationBooklet_DP21003_.pdf.md",
+    "Untitled",
+    "Courses/BMEG 220/Terminology/Loop.md",
+    "Courses/BMEG 220/Terminology/Mesh.md",
+    "Courses/BMEG 220/Terminology/Extraordinary Node.md",
+    "Courses/BMEG 220/Terminology/Ordinary node.md",
     "Untitled.md",
-    "MATH 264/Introduction.md",
-    "BMEG 220/Electric field.md",
-    "BMEG 250/Course Introduction.md",
+    "Courses/BMEG 220/Terminology",
+    "Tasks",
+    "Tasks/Personal.md",
+    "2025-01-07.md",
+    "Assets/210203_SBMEApplicationBooklet_DP21003_.pdf",
+    "Courses",
+    "Untitled.canvas",
+    "Courses/BMEG 257/Course Introduction.md",
+    "Untitled 1.md",
+    "Dependencies/Ink/Drawing/2025.1.6 - 21.05pm.drawing",
+    "Dependencies/Ink/Drawing",
+    "Dependencies/Ink",
+    "Courses/BMEG 250/Course Introduction.md",
     "BMEG 220/Untitled",
-    "ᵄ quicknotes/Demo.md",
-    "BMEG 250",
-    "BMEG 220",
-    "MATH 264",
-    "BMEG 257",
-    "BMEG 257/BMEG 220",
-    "BMEG 201",
+    "Courses/BMEG 250",
     "2025-01-06.md",
     "BMEG 201/First note.md",
-    "Zachary.md",
-    "Untitled.canvas",
-    "Welcome.md"
+    "Zachary.md"
   ]
 }

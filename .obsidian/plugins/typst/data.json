@@ -9,8 +9,8 @@
     "lora"
   ],
   "preamable": {
-    "shared": "#set text(fill: white, size: SIZE, font: \"lora\")\n#set page(width: WIDTH, height: HEIGHT + 4pt)",
-    "math": "#set page(margin: 0pt)\n#set align(center + horizon)",
+    "shared": "#set text(fill: white, size: SIZE, font: \"lora\")\n#set page(width: WIDTH, height: HEIGHT)",
+    "math": "#set page(margin: 0pt)\n#set align(horizon)",
     "code": "#set page(margin: (y: 1em, x: 0pt))"
   },
   "plugin_version": "0.10.0",

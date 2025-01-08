@@ -1,0 +1,1 @@
+A closed path with the same start and end [[Node]].

@@ -32,5 +32,6 @@
     "editor:configure-toolbar",
     "ink:create-drawing-section",
     "ink:create-handwritten-section"
-  ]
+  ],
+  "newFileLocation": "current"
 }

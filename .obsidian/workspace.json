@@ -11,14 +11,14 @@
             "id": "515c59defa5b4bc4",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Quicknotes/Demo.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "Demo"
             }
           }
         ]
@@ -93,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Quicknotes/Demo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Demo"
             }
           },
           {
@@ -137,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Quicknotes/Demo.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Demo"
             }
           },
           {
@@ -184,19 +187,20 @@
   },
   "active": "515c59defa5b4bc4",
   "lastOpenFiles": [
+    "Quicknotes/Demo.md",
+    "Tasks/Viewer.md",
+    "Tasks/Academic.md",
+    "Courses/MATH 264/Introduction.md",
     "Courses/BMEG 220/Parallel Rules.md",
-    "Courses/BMEG 220/Kirchhoff's Current and Voltage Laws.md",
     "Courses/BMEG 220/Electric field.md",
+    "Courses/BMEG 220/Kirchhoff's Current and Voltage Laws.md",
     "Courses/BMEG 220/Circuit Elements.md",
     "Courses/BMEG 220/Terminology/Loop.md",
     "Courses/BMEG 220/Terminology/Extraordinary Node.md",
     "Courses/BMEG 220/Terminology/Basic Terminology.md",
-    "Tasks/Academic.md",
-    "Tasks/Viewer.md",
     "ᵄ quicknotes/Demo.md",
     "Tasks/Personal.md",
     "Tasks",
-    "Quicknotes/Demo.md",
     "Quicknotes",
     "Dependencies/Ink/Drawing/2025.1.6 - 21.05pm.drawing",
     "Dependencies/Ink/Drawing",
@@ -205,7 +209,6 @@
     "Courses/BMEG 220/Terminology/Ordinary node.md",
     "Courses/BMEG 220/Terminology/Mesh.md",
     "Courses/BMEG 220/Terminology/Node.md",
-    "Courses/MATH 264/Introduction.md",
     "Courses/BMEG 257/Course Introduction.md",
     "Courses/BMEG 220/Terminology",
     "Courses/BMEG 220/Series Rules.md",

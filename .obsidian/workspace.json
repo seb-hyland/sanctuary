@@ -11,14 +11,14 @@
             "id": "515c59defa5b4bc4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Quicknotes/Demo.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/graph.json",
+                "bFile": ".obsidian/graph.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Demo"
+              "icon": "diff",
+              "title": "Diff: graph.json"
             }
           }
         ]
@@ -93,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quicknotes/Demo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Demo"
+              "title": "Backlinks"
             }
           },
           {
@@ -138,11 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Quicknotes/Demo.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Demo"
+              "title": "Outline"
             }
           },
           {

@@ -9,7 +9,7 @@
     "lora"
   ],
   "preamable": {
-    "shared": "#set text(fill: white, size: SIZE, font: \"lora\")\n#set page(width: WIDTH, height: HEIGHT)",
+    "shared": "#set text(fill: black, size: SIZE, font: \"lora\")\n#set page(width: WIDTH, height: HEIGHT)",
     "math": "#set page(margin: 0pt)\n#set align(center + horizon)",
     "code": "#set page(margin: (y: 1em, x: 0pt))"
   },

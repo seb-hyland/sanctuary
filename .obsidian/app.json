@@ -33,6 +33,5 @@
     "ink:create-drawing-section",
     "ink:create-handwritten-section"
   ],
-  "newFileLocation": "current",
-  "attachmentFolderPath": "Dependencies/Attachments"
+  "newFileLocation": "current"
 }

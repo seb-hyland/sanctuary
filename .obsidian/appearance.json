@@ -4,7 +4,7 @@
   "textFontFamily": "Lora",
   "interfaceFontFamily": "Inter",
   "nativeMenus": false,
-  "theme": "moonstone",
+  "theme": "system",
   "enabledCssSnippets": [
     "personal"
   ]

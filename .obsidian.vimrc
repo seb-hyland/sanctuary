@@ -31,14 +31,14 @@ nmap H b " Move to the beginning of the previous word
 vmap H b " Move to the beginning of the previous word
 nmap L e " Move to the end of the current word
 vmap L e " Move to the end of the current word
-nmap <C-j> G " Move to the end of the document
-vmap <C-j> G " Move to the end of the document
+nmap <C-j> G$ " Move to the end of the document
+vmap <C-j> G$ " Move to the end of the document
 nmap <C-k> gg " Move to the beginning of the document
 vmap <C-k> gg " Move to the beginning of the document
-nmap <C-h> ^ " Move to the beginning of the line
-vmap <C-h> ^ " Move to the beginning of the line
-nmap <C-l> $ " Move to the end of the line
-vmap <C-l> $ " Move to the end of the line
+nmap <C-h> g^ " Move to the beginning of the line
+vmap <C-h> g^ " Move to the beginning of the line
+nmap <C-l> g$ " Move to the end of the line
+vmap <C-l> g$ " Move to the end of the line
 
 " Others
 nmap <BS> "_x " Delete character without copying

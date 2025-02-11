@@ -1,0 +1,15 @@
+i: 1
+j: 1
+sum: 1
+i: 2
+j: 1
+sum: 2
+j: 2
+sum: 6
+i: 3
+j: 1
+sum: 7
+j: 2
+sum: 11
+j: 3
+sum: 14

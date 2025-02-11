@@ -31,7 +31,7 @@
 	- "dimer" meaning two
 	- Is two similar monomers which joined together to form a dimer
 >[!Important]
->Thinking about o-chem is important for analyzing structure.
+>Thinking about OChem is important for analyzing structure.
 >When looking at ligands, we have to consider $pi$ bonds that affect or aid in stability. Double bonds may be stabilized by other bonds in the vicinity
 
 

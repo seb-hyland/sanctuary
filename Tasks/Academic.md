@@ -1,3 +1,5 @@
-- [ ] #BMEG257 Group Assignment 0 📅 2025-01-10
-- [ ] #BMEG257 Individual Assignment 0 📅 2025-01-10
-	- [ ] Double check quiz score 📅 2025-01-09
+- [ ] #BMEG220 WW01 📅 2025-01-13
+- [x] #BMEG201 Land Acknowledgement Activity 📅 2025-01-10 ✅ 2025-01-11
+- [x] #BMEG257 Group Assignment 0 📅 2025-01-10 ✅ 2025-01-11
+- [x] #BMEG257 Individual Assignment 0 📅 2025-01-10 ✅ 2025-01-10
+	- [x] Double check quiz score 📅 2025-01-09 ✅ 2025-01-10

@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "1966eed3d64c7bb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "e237549d6eca07cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "515c59defa5b4bc4",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/graph.json",
+                "bFile": ".obsidian/graph.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: graph.json"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e6965830d73617fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d7cd97ad2e8fdd0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67f1a220562bb31e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6de4279e6334926b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d4cf6948d9a4580f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "81e8529fd79ecabe",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4d88b653b87c0c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1416a2784554cf90",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "47717125d0520604",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "BMEG something/First note.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from First note"
+            }
+          },
+          {
+            "id": "6533e9e896a785d7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "517669717ae4603b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "0594e248f4546fb5",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
+          },
+          {
+            "id": "4ba6d3b6232a66e9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "obisidian-note-linker:Note Linker": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "515c59defa5b4bc4",
+  "lastOpenFiles": [
+    "Quicknotes/Demo.md",
+    "Tasks/Viewer.md",
+    "Tasks/Academic.md",
+    "Courses/MATH 264/Introduction.md",
+    "Courses/BMEG 220/Parallel Rules.md",
+    "Courses/BMEG 220/Electric field.md",
+    "Courses/BMEG 220/Kirchhoff's Current and Voltage Laws.md",
+    "Courses/BMEG 220/Circuit Elements.md",
+    "Courses/BMEG 220/Terminology/Loop.md",
+    "Courses/BMEG 220/Terminology/Extraordinary Node.md",
+    "Courses/BMEG 220/Terminology/Basic Terminology.md",
+    "ᵄ quicknotes/Demo.md",
+    "Tasks/Personal.md",
+    "Tasks",
+    "Quicknotes",
+    "Dependencies/Ink/Drawing/2025.1.6 - 21.05pm.drawing",
+    "Dependencies/Ink/Drawing",
+    "Dependencies/Ink",
+    "Dependencies",
+    "Courses/BMEG 220/Terminology/Ordinary node.md",
+    "Courses/BMEG 220/Terminology/Mesh.md",
+    "Courses/BMEG 220/Terminology/Node.md",
+    "Courses/BMEG 257/Course Introduction.md",
+    "Courses/BMEG 220/Terminology",
+    "Courses/BMEG 220/Series Rules.md",
+    "Courses/BMEG 250/Course Introduction.md",
+    "Courses/BMEG 201/Introduction.md",
+    "Courses/MATH 264",
+    "Courses/BMEG 257",
+    "Courses/BMEG 220",
+    "Untitled.md",
+    "2025-01-06.md",
+    "BMEG 201/First note.md",
+    "Zachary.md",
+    "Untitled.canvas",
+    "Welcome.md"
+  ]
+}

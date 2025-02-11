@@ -11,14 +11,14 @@
             "id": "515c59defa5b4bc4",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/graph.json",
-                "bFile": ".obsidian/graph.json",
-                "aRef": ""
+                "file": "Courses/BMEG 220/Electric field.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: graph.json"
+              "icon": "lucide-file",
+              "title": "Electric field"
             }
           }
         ]
@@ -93,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tasks/Academic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Academic"
             }
           },
           {
@@ -137,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Tasks/Academic.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Academic"
             }
           },
           {
@@ -184,41 +187,41 @@
   },
   "active": "515c59defa5b4bc4",
   "lastOpenFiles": [
-    "Quicknotes/Demo.md",
-    "Tasks/Viewer.md",
-    "Tasks/Academic.md",
-    "Courses/MATH 264/Introduction.md",
-    "Courses/BMEG 220/Parallel Rules.md",
+    "Dependencies/Ink/Drawing/2025.1.10 - 14.23pm.drawing",
     "Courses/BMEG 220/Electric field.md",
     "Courses/BMEG 220/Kirchhoff's Current and Voltage Laws.md",
+    "Dependencies/Ink/Drawing/2025.1.9 - 14.42pm.drawing",
+    "Dependencies/Ink/Drawing/2025.1.9 - 14.33pm.drawing",
+    "Dependencies/Ink/Drawing/2025.1.9 - 14.25pm.drawing",
+    "Dependencies/Ink/Drawing/2025.1.6 - 21.05pm.drawing",
+    "Ink/Drawing/2025.1.9 - 12.47pm.drawing",
+    "Courses/BMEG 220/Assignments/PC 02.md",
+    "Courses/BMEG 220/Assignments/IC 01-09.md",
+    "Courses/BMEG 220/Exercises/PC 02.md",
+    "Courses/BMEG 220/Assignments",
+    "Courses/BMEG 220/Exercises/IC 01.md",
+    "Tasks/Academic.md",
+    "Tasks/Viewer.md",
+    "Tasks/Personal.md",
+    "conflict-files-obsidian-git.md",
+    "Ink/Drawing",
+    "Ink",
+    "Courses/BMEG 220/Exercises",
+    "Quicknotes/Demo.md",
+    "Courses/MATH 264/Introduction.md",
+    "Courses/BMEG 220/Parallel Rules.md",
     "Courses/BMEG 220/Circuit Elements.md",
     "Courses/BMEG 220/Terminology/Loop.md",
     "Courses/BMEG 220/Terminology/Extraordinary Node.md",
     "Courses/BMEG 220/Terminology/Basic Terminology.md",
     "ᵄ quicknotes/Demo.md",
-    "Tasks/Personal.md",
-    "Tasks",
-    "Quicknotes",
-    "Dependencies/Ink/Drawing/2025.1.6 - 21.05pm.drawing",
-    "Dependencies/Ink/Drawing",
-    "Dependencies/Ink",
-    "Dependencies",
     "Courses/BMEG 220/Terminology/Ordinary node.md",
     "Courses/BMEG 220/Terminology/Mesh.md",
     "Courses/BMEG 220/Terminology/Node.md",
     "Courses/BMEG 257/Course Introduction.md",
-    "Courses/BMEG 220/Terminology",
     "Courses/BMEG 220/Series Rules.md",
     "Courses/BMEG 250/Course Introduction.md",
     "Courses/BMEG 201/Introduction.md",
-    "Courses/MATH 264",
-    "Courses/BMEG 257",
-    "Courses/BMEG 220",
-    "Untitled.md",
-    "2025-01-06.md",
-    "BMEG 201/First note.md",
-    "Zachary.md",
-    "Untitled.canvas",
-    "Welcome.md"
+    "Untitled.canvas"
   ]
 }

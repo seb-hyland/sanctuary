@@ -7,7 +7,7 @@ $$arrow(F)(arrow(R)) = 1/(4 pi epsilon) q_"test"/abs(arrow(R))^2$$
 In 3D, we often have many discrete charges producing their own electric fields. To calculate $arrow(E)$ at some point $P$ due to all discrete charges in the vicinity, we use:
 $$arrow(E)_"tot" = sum_(n=1)^n E_n(arrow(R_p) - arrow(R_i))$$
 
->[!Example] Determining electric field near infinite thin rod
+>[!example] Determining electric field near infinite thin rod
 > ```handdrawn-ink
 > {
 > 	"versionAtEmbed": "0.3.3",
@@ -16,4 +16,3 @@ $$arrow(E)_"tot" = sum_(n=1)^n E_n(arrow(R_p) - arrow(R_i))$$
 > 	"aspectRatio": 1
 > }
 > ```
-
